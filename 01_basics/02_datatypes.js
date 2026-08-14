@@ -20,7 +20,7 @@ string => "" ya '' preffered ""
 boolean = true/false
 
 
-null => standalone value , e.g agr temp dekhna ho to 
+null => standalone value , e.g agr temperature  dekhna ho to 
 error aaye to null print kra skte h 
 
 undefined =>  abhi valued assign nhi hui h e.g let age;
