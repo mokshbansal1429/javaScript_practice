@@ -13,7 +13,7 @@ prefer not to use var
 beacause of issue in block scope and functional scope
 */
 /*
-agr variable bnake chhor de mtlb value assign na ho to print hoga undefinedB
+agr variable bnake chhor de mtlb value assign na ho to print hoga undefined
 
 */
 let personName;
